@@ -3,7 +3,7 @@ pagesize-checker
 
 A bash script that loads a user-specified array of URLs and outputs a CSV of rendered page sizes.
 
-Requirements:
+requirements
 =============
 - <a href="http://phantomjs.org/">PhantomJS</a>
 - <a href="http://yslow.org/phantomjs/">YSlow for PhantomJS</a>
